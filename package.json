@@ -9,7 +9,7 @@
         "setup": "node /var/www/html/PortFolio/scripts/setup.js"
     },
     "dependencies": {
-        "body-parser": "^2.3.0",
+        "body-parser": "^2.4.0",
         "cors": "^2.8.5",
         "cross-spawn": "^7.0.6",
         "dotenv": "^16.4.7",
